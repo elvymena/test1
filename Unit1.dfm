@@ -12,7 +12,7 @@ object Form1: TForm1
   Font.Style = []
   TextHeight = 15
   object BitBtn1: TBitBtn
-    Left = 216
+    Left = 191
     Top = 96
     Width = 75
     Height = 25
