@@ -20,4 +20,12 @@ object Form1: TForm1
     TabOrder = 0
     OnClick = BitBtn1Click
   end
+  object Edit1: TEdit
+    Left = 64
+    Top = 97
+    Width = 121
+    Height = 23
+    TabOrder = 1
+    Text = 'Edit1'
+  end
 end
